@@ -1,7 +1,7 @@
  <h1 align="center"> 🦅 Hello, I'm Inquisiteur !</h1>
 
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.picmix.com%2Fstamp%2FNina-cat-1701913&psig=AOvVaw0LITPfUoMx7mFnPprLU9NU&ust=1682144580107000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMj61oSruv4CFQAAAAAdAAAAABAD">
+<img src="https://cdn.discordapp.com/attachments/1098353257925066792/1098856945961685062/1701913_44b32.gif">
  <p align="center">
  
  <p align="center">

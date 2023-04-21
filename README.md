@@ -1,7 +1,7 @@
  <h1 align="center"> 🦅 Hello, I'm Inquisiteur !</h1>
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1098353257925066792/1098856945961685062/1701913_44b32.gif">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.picmix.com%2Fstamp%2FNina-cat-1701913&psig=AOvVaw0LITPfUoMx7mFnPprLU9NU&ust=1682144580107000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMj61oSruv4CFQAAAAAdAAAAABAD">
  <p align="center">
  
  <p align="center">
@@ -15,7 +15,7 @@
 
   <div align="center">
   <a href="https://discord.com/users/1097694419060269176" target="_blank">
-  <img src="https://lanyard.cnrad.dev/api/1097694419060269176"> 
+  <img src="https://lanyard-profile-readme.vercel.app/api/1097694419060269176?bg=111111"> 
 </a>
    </div>
 

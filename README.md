@@ -1,6 +1,7 @@
  <h1 align="center"> 🦅 Hello, I'm Inquisiteur !</h1>
 
 <p align="center">
+  <img src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif">
  <p align="center">
  
  <p align="center">
@@ -15,7 +16,6 @@
   <div align="center">
   <a href="https://discord.com/users/1097694419060269176" target="_blank">
   <img src="https://lanyard-profile-readme.vercel.app/api/1097694419060269176"> 
-  <img src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif">
 </a>
    </div>
 

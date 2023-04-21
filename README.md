@@ -1,7 +1,7 @@
  <h1 align="center"> 🦅 Hello, I'm Inquisiteur !</h1>
 
 <p align="center">
-<img src="https://openseauserdata.com/files/5429c119dc6c7ae3fd2003118a91fe26.gif">
+<img src="">
  <p align="center">
  
  <p align="center">
